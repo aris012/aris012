@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Aris
 - 👀 I’m interested in arts and design
 - 🌱 I’m currently learning Python and other programming
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 aris012/aris012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
